@@ -47,13 +47,14 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
 
 </head>
-    <script>
-      $(document).ready(function() {
-          $('body').bind('cut copy', function(e) {
-              e.preventDefault();
-            });
-        });
-    </script>
+<script type='text/javascript' src='http://code.jquery.com/jquery-1.4.4.min.js'></script>
+<script type='text/javascript'>//<![CDATA[ 
+$(function(){
+$('img').bind('contextmenu', function(e){
+return false;
+}); 
+});//]]>  
+</script>
 
 <body data-spy="scroll" data-target=".navbar-nav" data-offset="110">
 
