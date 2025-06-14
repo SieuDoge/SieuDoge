@@ -8,7 +8,7 @@
 - ☕ Java
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sieudoge)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sieudoge&theme=dark)](https://git.io/streak-stats)
 
 ## 📫 Contact me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sieudoge/)
